@@ -2,7 +2,7 @@
 
 namespace ESadewater\LivewireMaps\Livewire;
 
-use Illuminate\Contracts\View\View;
+use Illuminate\View\View;
 use Illuminate\Support\Collection;
 use Livewire\Component;
 
